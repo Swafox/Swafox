@@ -19,3 +19,9 @@
 - 🐦 swafox_
 - 🌐 swafox.com
 - 📬 contact(at)swafox.com
+
+### Stats
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
