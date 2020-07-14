@@ -22,6 +22,8 @@
 
 ### Stats
 <!--START_SECTION:waka-->
-
-
+```text
+C++         0 secs              ███████████████░░░░░░░░░░   61.66 
+Python      0 secs              █████████░░░░░░░░░░░░░░░░   38.34
+```
 <!--END_SECTION:waka-->
