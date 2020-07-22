@@ -23,9 +23,8 @@
 ### Stats
 <!--START_SECTION:waka-->
 ```text
-Bash        54 mins             ██████████████░░░░░░░░░░░   57.02 % 
-Python      33 mins             █████████░░░░░░░░░░░░░░░░   35.60 % 
-Markdown    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Sublime Text Config1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Python      33 mins             ████████████████████░░░░░   82.83 % 
+Markdown    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Sublime Text Config1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
 ```
 <!--END_SECTION:waka-->
