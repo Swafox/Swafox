@@ -26,11 +26,11 @@
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Rust" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/misc/security.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="margin:4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="JS" style="margin:4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="Bash" style="margin:4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="React" style="margin:4px">
+  <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/misc/security.svg" alt="Security" style="margin:4px">
 
 ### Wakatime Stats
 <!--START_SECTION:waka-->
