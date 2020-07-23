@@ -20,7 +20,7 @@
 - 🌐 swafox.com
 - 📬 contact(at)swafox.com
 
-### Stats
+### Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
 Python                33 mins         ████████████████████░░░░░   82.83 % 
