@@ -35,8 +35,6 @@
 ### Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Python                33 mins         ████████████████████░░░░░   82.83 % 
-Markdown              5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Sublime Text Config   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Python   1 hr 15 mins    █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
