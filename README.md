@@ -18,7 +18,6 @@
 ### Find me
 - 🐦 swafox_
 - 🌐 swafox.com
-- 📬 contact(at)swafox.com
 
 ### I know...
 
