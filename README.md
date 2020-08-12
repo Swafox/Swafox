@@ -34,8 +34,6 @@
 ### Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-HTML       36 mins         ████████████░░░░░░░░░░░░░   51.03 % 
-PHP        33 mins         ███████████░░░░░░░░░░░░░░   46.96 % 
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
