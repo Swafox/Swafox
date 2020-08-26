@@ -34,7 +34,7 @@
 ### Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Rust   3 mins          ███████████████████████░░   92.04 % 
-TOML   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Rust   13 mins         ████████████████████████▓   98.45 % 
+TOML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 <!--END_SECTION:waka-->
