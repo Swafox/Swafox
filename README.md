@@ -34,7 +34,6 @@
 ### Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Rust   13 mins         ████████████████████████▓   98.45 % 
-TOML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
