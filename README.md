@@ -34,6 +34,7 @@
 ### Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   2 mins          ███████████████▓░░░░░░░░░   62.99 % 
+Rust     1 min           █████████▒░░░░░░░░░░░░░░░   37.01 % 
 ```
 <!--END_SECTION:waka-->
