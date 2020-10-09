@@ -34,6 +34,7 @@
 ### Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Python   20 mins         █████████████████████████   100.00 % 
+Python    20 mins         ███████████████▒░░░░░░░░░   61.36 % 
+Arduino   12 mins         █████████▓░░░░░░░░░░░░░░░   38.64 % 
 ```
 <!--END_SECTION:waka-->
