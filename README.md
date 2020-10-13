@@ -9,6 +9,7 @@
 ### Briefly
 - Communty moderator, content creator and tester at [TryHackMe](https://tryhackme.com/).
 - Django/ReactJS web developer.
+- eLearnSecurity Junior Penetration Tester
 
 ### Interests
 - Ethical hacking & security research.
