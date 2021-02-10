@@ -39,3 +39,6 @@
 PHP   8 mins          ████████████████████████▓   99.07 % 
 ```
 <!--END_SECTION:waka-->
+
+### Github Stats
+![Swafox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swafox&show_icons=true)
