@@ -41,4 +41,4 @@ PHP   8 mins          ███████████████████�
 <!--END_SECTION:waka-->
 
 ### Github Stats
-![Swafox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swafox&show_icons=true)
+![Swafox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swafox&show_icons=true&theme=dracula)
