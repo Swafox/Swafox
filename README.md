@@ -36,7 +36,7 @@
 ### Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Dart   23 mins         █████████████████████████   100.00 % 
+Dart   9 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
