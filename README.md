@@ -36,7 +36,7 @@
 ### Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Python   55 mins         █████████████████████████   100.00 % 
+Python       55 mins         ████████████████████████▒   96.87 % 
 ```
 <!--END_SECTION:waka-->
 
