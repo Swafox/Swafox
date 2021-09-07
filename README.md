@@ -36,8 +36,7 @@
 ### Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-HTML   25 mins         ████████████████████▒░░░░   81.23 % 
-CSS    5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.77 % 
+CSS    3 mins          ████████████████████████░   95.43 % 
 ```
 <!--END_SECTION:waka-->
 
