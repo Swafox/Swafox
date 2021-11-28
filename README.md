@@ -36,8 +36,8 @@
 ### Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-Java     47 mins         ████████████████▒░░░░░░░░   65.05 % 
-Python   25 mins         ████████▓░░░░░░░░░░░░░░░░   34.95 % 
+Java     1 hr 7 mins     ██████████████████░░░░░░░   72.05 % 
+Python   25 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.92 % 
 ```
 <!--END_SECTION:waka-->
 
