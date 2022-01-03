@@ -15,6 +15,7 @@
 - Ethical hacking & security research.
 - WebApp testing.
 - Machine learning. 
+- Web3 Security
 
 ### Find me
 - 🐦 swafox_
