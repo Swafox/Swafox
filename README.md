@@ -37,7 +37,8 @@
 ### Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   15 mins         ██████████████▒░░░░░░░░░░   57.92 % 
+Bash       11 mins         ██████████▓░░░░░░░░░░░░░░   42.08 % 
 ```
 <!--END_SECTION:waka-->
 
