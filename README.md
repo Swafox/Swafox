@@ -37,7 +37,7 @@
 ### Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   49 mins         █████████████████████████   99.81 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
