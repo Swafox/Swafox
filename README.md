@@ -44,12 +44,12 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="React" style="margin:4px">
   <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/misc/security.svg" alt="Security" style="margin:4px">
   
-### Wakatime Stats
+### 📈 Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-### Github Stats
+### 🐱 Github Stats
 ![Swafox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swafox&show_icons=true&theme=dracula)
