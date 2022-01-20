@@ -6,32 +6,32 @@
 화이트햇 해커 
                               
 ```
-### Currently working on
+### 🔨 Currently working on
 - Minter Blockchain application in JavaScript
 - Python SDK port for Minter
 - Blockchain Identity protection for self-custodial wallets
 
-### Curently learning
+### 📕 Curently learning
 - React/Typescript
 - Web3 SDK
 - Networking
 
-### Briefly
+### 🌟 Briefly
 - Communty moderator, content creator and tester at [TryHackMe](https://tryhackme.com/).
 - Django/ReactJS web developer.
 - eLearnSecurity Junior Penetration Tester
 
-### Interests
+### 💗 Interests
 - Ethical hacking & security research.
 - WebApp testing.
 - Machine learning. 
 - <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png/600px-ETHEREUM-YOUTUBE-PROFILE-PIC.png" /> Web3 Security
 
-### Find me
+### 🔍 Find me
 - 🐦 swafox_
 - 🌐 swafox.com
 
-### I know...
+### 🤔 I know...
 
 <p align="center">
 
