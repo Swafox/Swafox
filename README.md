@@ -6,6 +6,16 @@
 화이트햇 해커 
                               
 ```
+### Currently working on
+- Minter Blockchain application in JavaScript
+- Python SDK port for Minter
+- Blockchain Identity protection for self-custodial wallets
+
+### Curently learning
+- React/Typescript
+- Web3 SDK
+- Networking
+
 ### Briefly
 - Communty moderator, content creator and tester at [TryHackMe](https://tryhackme.com/).
 - Django/ReactJS web developer.
