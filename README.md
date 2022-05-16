@@ -27,8 +27,8 @@
 - Web3
 
 ### 🔍 Find me
-- 🐦 swafox_
-- 🌐 [swafox.com](https://twitter.com/swafox_)
+- 🐦 [swafox_](https://twitter.com/swafox_)
+- 🌐 [swafox.com](https://swafox.com)
 
 ### 🤔 I know...
 
