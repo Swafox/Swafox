@@ -7,29 +7,28 @@
                               
 ```
 ### 🔨 Currently working on
-- Minter Blockchain application in JavaScript
-- Python SDK port for Minter
+- Blockchain applications in JavaScript
 - Blockchain Identity protection for self-custodial wallets
 
 ### 📕 Curently learning
 - React/Typescript
-- Web3 SDK
-- Networking
+- Web3.js
+- ExpressJS and Big Networking
 
 ### 🌟 Briefly
-- Communty moderator, content creator and tester at [TryHackMe](https://tryhackme.com/).
-- JS web developer.
-- eLearnSecurity Junior Penetration Tester && more...
+- Previously: Communty moderator, content creator and tester at [TryHackMe](https://tryhackme.com/).
+- Back-end developer.
+- Security expert (Web-sec research & exploit dev).
 
 ### 💗 Interests
 - Ethical hacking & security research.
-- WebApp testing.
+- WebApp development.
 - Machine learning. 
-- <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png/600px-ETHEREUM-YOUTUBE-PROFILE-PIC.png" /> Web3 Security
+- Web3
 
 ### 🔍 Find me
 - 🐦 swafox_
-- 🌐 swafox.com
+- 🌐 [swafox.com](https://twitter.com/swafox_)
 
 ### 🤔 I know...
 
