@@ -17,8 +17,8 @@
 
 ### 🌟 Briefly
 - Previously: Communty moderator, content creator and tester at [TryHackMe](https://tryhackme.com/).
-- Back-end developer.
-- Security expert (Web-sec research & exploit dev).
+- Right Now: Developer.
+- Side: Security expert (Web-sec research & exploit dev).
 
 ### 💗 Interests
 - Ethical hacking & security research.
