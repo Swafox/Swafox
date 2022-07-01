@@ -48,7 +48,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
