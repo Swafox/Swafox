@@ -7,7 +7,7 @@
                               
 ```
 ### 🔨 Currently working on
-- Ethereum Node REST API: [/webthree.wiki](https://webthree.wiki/)
+- Ethereum Node REST API: [webthree.wiki](https://webthree.wiki/)
 
 ### 📕 Curently working with
 - React/Typescript
