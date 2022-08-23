@@ -7,10 +7,9 @@
                               
 ```
 ### 🔨 Currently working on
-- Blockchain applications in JavaScript
-- Blockchain Identity protection for self-custodial wallets
+- Ethereum Node REST API: [/webthree.wiki](https://webthree.wiki/)
 
-### 📕 Curently learning
+### 📕 Curently working with
 - React/Typescript
 - Web3.js
 - ExpressJS and Big Networking
