@@ -48,12 +48,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       1 hr 3 mins     █████████████████████▒░░░   84.72 %
-ca65 assembler   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-Assembly         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-PowerShell       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript       1 hr 30 mins    ██████████████████████░░░   88.58 %
+ca65 assembler   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Assembly         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
