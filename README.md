@@ -6,12 +6,10 @@
 화이트햇 해커 
                               
 ```
-### 🔨 Currently working on
-- Ethereum Node REST API: [webthree.wiki](https://webthree.wiki/)
 
 ### 📕 Curently working with
 - React/Typescript
-- Web3.js
+- Web3.js & OpenAI
 - ExpressJS and Big Networking
 
 ### 🌟 Briefly
@@ -22,7 +20,7 @@
 ### 💗 Interests
 - Ethical hacking & security research.
 - WebApp development.
-- Machine learning. 
+- Machine learning / AI
 - Web3
 
 ### 🔍 Find me
