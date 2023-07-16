@@ -46,8 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   2 hrs 21 mins   ████████████████████████▒   97.67 %
-TOML   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Rust   1 hr 49 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
