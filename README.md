@@ -46,7 +46,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   1 hr 18 mins    █████████████████████████   100.00 %
+Rust         25 mins         █████████████████████░░░░   84.06 %
+TypeScript   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
