@@ -9,13 +9,7 @@
 
 ### 📕 Curently working with
 - React/Typescript
-- Web3.js & OpenAI
-- ExpressJS and Big Networking
-
-### 🌟 Briefly
-- Previously: Communty moderator, content creator and tester at [TryHackMe](https://tryhackme.com/).
-- Right Now: Developer.
-- Side: Security expert (Web-sec research & exploit dev).
+- Web3 & OpenAI
 
 ### 💗 Interests
 - Ethical hacking & security research.
@@ -26,7 +20,8 @@
 ### 🔍 Find me
 - 🐦 [swafox_](https://twitter.com/swafox_)
 - 🌐 [swafox.com](https://swafox.com)
-- 👨‍🚀 [.me](https://swafox.github.io/)
+- ✉️ [Contact](mailto:contact@swafox.com)
+- 🏢 [Vopx](https://github.com/VopxTech)
 
 ### 🤔 I know...
 
