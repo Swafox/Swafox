@@ -8,20 +8,20 @@
 ```
 
 ### 📕 Curently working with
-- React/Typescript
-- Web3 & OpenAI
+- Typescript: React/Deno/NextJS.
+- Rust: Data structures.
+- AI Stack: LLMs, pre and post training, LoRA.
 
 ### 💗 Interests
 - Ethical hacking & security research.
 - WebApp development.
-- Machine learning / AI
-- Web3
+- Machine learning / AI.
+- Web3.
 
 ### 🔍 Find me
 - 🐦 [swafox_](https://twitter.com/swafox_)
 - 🌐 [swafox.com](https://swafox.com)
 - ✉️ [Contact](mailto:contact@swafox.com)
-- 🏢 [Vopx](https://github.com/VopxTech)
 
 ### 🤔 I know...
 
