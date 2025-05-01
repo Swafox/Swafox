@@ -21,7 +21,6 @@
 ### 🔍 Find me
 - 🐦 [swafox_](https://twitter.com/swafox_)
 - 🌐 [swafox.com](https://swafox.com)
-- ✉️ [Contact](mailto:contact@swafox.com)
 
 ### 🤔 I know...
 
