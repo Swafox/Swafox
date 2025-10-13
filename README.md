@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     4 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.98 %
+TypeScript     4 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.97 %
 Markdown       4 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   32.82 %
 Rust           2 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
 JSON           1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
