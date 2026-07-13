@@ -40,10 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        15 mins               ████████████▓░░░░░░░░░░░░   50.27 %
-Markdown     11 mins               █████████▒░░░░░░░░░░░░░░░   37.27 %
-JSON         3 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
